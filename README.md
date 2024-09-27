@@ -1,6 +1,6 @@
 # Super Mario World NES
 
-This project aims to create a faithful NES version of Super Mario World from scratch. The original attempt by the Hummer Team had its flaws, including poor music and clunky Mario movement. This project seeks to create a more accurate and polished version of the game.
+This project aims to create a better NES version of Super Mario World from scratch. The original attempt by the Hummer Team in 1995 had its problems, including poor music and weird Mario movement. This project seeks to create a more accurate and polished version of the game.
 
 ## Why This Project?
 I’m developing this game in C using the 8bitworkshop IDE. I’ve chosen this route over tools like NESMaker, as I prefer a hands-on approach and want to avoid the $36 cost associated with NESMaker.
