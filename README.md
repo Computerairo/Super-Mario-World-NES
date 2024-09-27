@@ -1,6 +1,21 @@
-# Super-Mario-World-NES
+# Super Mario World NES
 
-### I'm making Super Mario World for the NES, because the Hummer Team made Super Mario World for the NES but it was bad. So I'm making this in 8bitworkshop IDE in C, because I refuse to use NESMaker, because I'm not paying 36$. And I need help for: coding, graphics, sound, level designing and map designing.
+This project aims to create a faithful NES version of Super Mario World from scratch. The original attempt by the Hummer Team had its flaws, including poor music and clunky Mario movement. This project seeks to create a more accurate and polished version of the game.
 
-If someone wants to help, contact me on Discord: @Computerairo
+## Why This Project?
+I’m developing this game in C using the 8bitworkshop IDE. I’ve chosen this route over tools like NESMaker, as I prefer a hands-on approach and want to avoid the $36 cost associated with NESMaker.
+
+## What I'm Looking For:
+I’m looking for collaborators in the following areas:
+
+Coding
+Graphics
+Sound (to improve upon the original's bad music)
+Level Design
+Map Design
+Movement Physics (to ensure smooth and accurate Mario controls)
+
+### How to Contribute
+If you’re interested in contributing to this project, please reach out to me on Discord: @Computerairo.
+
 
