@@ -8,12 +8,12 @@ I’m developing this game in C using the 8bitworkshop IDE. I’ve chosen this r
 ## What I'm Looking For:
 I’m looking for collaborators in the following areas:
 
-Coding
-Graphics
-Sound (to improve upon the original's bad music)
-Level Design
-Map Design
-Movement Physics (to ensure smooth and accurate Mario controls)
+- Coding
+- Graphics
+- Sound (to improve upon the original's bad music)
+- Level Design
+- Map Design
+- Movement Physics (to ensure smooth and accurate Mario controls)
 
 ### How to Contribute
 If you’re interested in contributing to this project, please reach out to me on Discord: @Computerairo.
