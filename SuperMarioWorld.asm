@@ -44,5 +44,13 @@ NMIHandler: subroutine
 
 ;;;;; CPU VECTORS
 
-	NES_VECTORS
 
+
+
+
+
+
+
+	NES_VECTORS
+ incbin "mario.chr"								  
+  
